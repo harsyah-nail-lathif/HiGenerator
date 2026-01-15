@@ -1,0 +1,7 @@
+{
+  "name": "HiGenerator",
+  "description": "An elegant prompt engineering tool for Sora 2 and Veo 3.1 video generation, featuring multimodal analysis and JSON structure generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
